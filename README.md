@@ -3,6 +3,7 @@ I am an Information Science Honors Student at the University of North Florida wi
 Some of my experiences are below:
 ● Experienced in configuring and quality checking new Windows computer systems for deployment to end users by using Intune and other related software delivery solutions.
 ● Have previously coordinated as part of a team of more than 25 technicians and interns, while flawlessly maintaining all current CDC guidelines, in support of the deployment of over 56,000 Student laptops over a four month period.
+
 ![Zain Malik](https://user-images.githubusercontent.com/66034863/160744926-406ce7eb-e587-4999-b800-167ff862fc1b.png)
 
 <!--
