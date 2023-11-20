@@ -1,10 +1,5 @@
 ### Hi there 👋
-I am an Information Science Honors Student at the University of North Florida with a minor in International Business. I also work at the Information Technology Services Help Desk at my University.
-Some of my experiences are below:
-
-● Experienced in configuring and quality checking new Windows computer systems for deployment to end users by using Intune and other related software delivery solutions
-
-● Have previously coordinated as part of a team of more than 25 technicians and interns, while flawlessly maintaining all current CDC guidelines, in support of the deployment of over 56,000 Student laptops over a four month period
+I am a current student at the University of North Florida, pursuing a major in Information Science with a minor in International Business. I am also an Honors Student in the Hicks Honors College at UNF. Additionally, I work at the Information Technology Services Help Desk at the university, where I provide first-level IT support for UNF staff and students, resolving hardware, software, network, and application issues. I have also served as a Web Development Intern at Elyk Innovation. During my academic journey, I completed an Exchange Semester at Sophia University in Tokyo, Japan for my International Business minor. In my spare time, I am involved in extracurricular activities such as Osprey Robotics and the Muslim Student Association.
 
 ![Zain Malik](https://user-images.githubusercontent.com/66034863/160744926-406ce7eb-e587-4999-b800-167ff862fc1b.png)
 
