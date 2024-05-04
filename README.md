@@ -1,5 +1,9 @@
 ### Hi there 👋
-I am a current student at the University of North Florida, pursuing a major in Information Science with a minor in International Business. I am also an Honors Student in the Hicks Honors College at UNF. Additionally, I work at the Information Technology Services Help Desk at the university, where I provide first-level IT support for UNF staff and students, resolving hardware, software, network, and application issues. I have also served as a Web Development Intern at Elyk Innovation. During my academic journey, I completed an Exchange Semester at Sophia University in Tokyo, Japan for my International Business minor. In my spare time, I am involved in extracurricular activities such as Osprey Robotics and the Muslim Student Association.
+My name is Zain Malik and I am a dedicated undergraduate student at the University of North Florida, pursuing a major in Information Science with a minor in International Business. As an Honors Student in the Hicks Honors College at UNF, I excel in my academic pursuits. I also bring my expertise to the Information Technology Services Help Desk on campus, where I provide essential support for the IT needs of UNF Staff and Students, resolving hardware, software, network, and application issues with precision and efficiency.
+
+My professional experience also extends to a previous role as a Web Development Intern at Elyk Innovation. Enriched by an Exchange Semester at Sophia University in Tokyo, Japan, as part of my International Business minor, I have broadened my global perspective. I aspire to leverage this valuable experience towards achieving my ambition of becoming a Systems Analyst in an International Organization.
+
+Beyond academics and work, I actively participate in extracurricular activities such as Osprey Robotics and the Muslim Student Association, showcasing my well-rounded approach to personal and professional development.
 
 ![image](https://github.com/zain0329/zain0329/assets/66034863/01871ef2-2cea-4fcc-af35-299a9f0ea6f4)
 
