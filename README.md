@@ -24,7 +24,8 @@ I aim to leverage my academic background, technical expertise, and global experi
 - **LinkedIn:** [linkedin.com/in/zain-malik-4316531a2/](https://www.linkedin.com/in/zain-malik-4316531a2/)
 
 
-![Picture1](https://github.com/user-attachments/assets/5e69f70d-554e-4e76-8be3-75d07f334cea)
+![image](https://github.com/user-attachments/assets/e8486fa5-515e-4a02-9877-545d29b669a5)
+
 
 
 
