@@ -1,11 +1,27 @@
-### Hi there 👋
-My name is Zain Malik and I am an undergraduate student at the University of North Florida 🎓, majoring in Information Science with a minor in International Business 🌍. As an Honors Student in the Hicks Honors College, I have consistently achieved academic excellence 📚 and was accepted into the Upsilon Pi Epsilon (UPE) International Honor Society as well as the CCEC High Flyers leadership program.
+# About Me
 
-At the UNF ITS Help Desk 💻, I provided IT support, contributed to the knowledge base, and trained new hires. As a Web Development Intern at Elyk Innovation, I completed projects using HTML, CSS, WordPress, and SEO tools 🌐. My exchange semester at Sophia University in Tokyo enhanced my global perspective through courses in Marketing, Japanese History 🇯🇵, and language, as well as extracurricular activities.
+I am a graduate student at the University of North Florida 🎓, pursuing a Master’s in Computer & Information Sciences through the Accelerated BS-MS program in the School of Computing. I recently graduated with a BSc in Information Science (minor in International Business 🌍) **with Honors** from the Hicks Honors College, where I engaged in experiential learning, research, and global study opportunities. My academic journey is marked by consistent excellence, membership in Upsilon Pi Epsilon (UPE) International Honor Society, and participation in the CCEC High Flyers leadership program.
 
-I later interned in Materials Informatics at the National Institute for Materials Science in Japan 🇯🇵, deepening my technical skills and cultural adaptability. I actively participated in Osprey Robotics 🤖, traveling to the Lunabotics Competition and managing club media. In the Muslim Student Association, I organized events and created awareness through social media 📱.
+## Experience
 
-Upon graduation 🎉, I aim to utilize these experiences to pursue a graduate degree in Information Science and build an international career in Informatics 🌐.
+- **UNF ITS Help Desk** 💻: Provided IT support, contributed to the knowledge base, and trained new hires.
+- **Elyk Innovation** 🌐: Web Development Intern-built projects using HTML, CSS, WordPress, and SEO tools.
+- **National Institute for Materials Science, Japan** 🇯🇵: Materials Informatics Intern-strengthened technical skills and cultural adaptability.
+- **Sophia University, Tokyo** 🇯🇵: Exchange semester with coursework in Marketing, Japanese History, language, and extracurricular engagement.
+
+## Leadership & Extracurriculars
+
+- **Osprey Robotics** 🤖: Attended the Lunabotics Competition, managed club media, and contributed to team success.
+- **Muslim Student Association** 📱: Organized events and led social media campaigns to raise awareness.
+
+## Goals
+
+I aim to leverage my academic background, technical expertise, and global experiences to build an international career in technology 🌐.
+
+## Connect With Me
+
+- **Email:** [zain0329@hotmail.com](mailto:zain0329@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/zain-malik-4316531a2/](https://www.linkedin.com/in/zain-malik-4316531a2/)
 
 
 ![Picture1](https://github.com/user-attachments/assets/5e69f70d-554e-4e76-8be3-75d07f334cea)
